@@ -19,4 +19,4 @@ document.querySelectorAll('.btn').forEach(btn => {
 
 // Set your download link here (official 1xBet link or landing)
 const downloadBtn = document.getElementById('download');
-downloadBtn.href = 'https://1xbet.com'; // Remplacez par votre lien d’affiliation officiel
+downloadBtn.href = 'https://reffpa.com/L?tag=d_4768914m_2896c_&site=4768914&ad=2896'; // Remplacez par votre lien d’affiliation officiel
